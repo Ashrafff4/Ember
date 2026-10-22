@@ -4,7 +4,7 @@ The floating Ember surface: a compact ribbon that expands into a full panel.
 
 Layout is hand-built with high-DPI FontAwesome 6 vector icons, dynamic palette
 tinting, responsive search debouncing, and persistent favorites/history tabs.
-"""
+""" 
 
 from __future__ import annotations
 
