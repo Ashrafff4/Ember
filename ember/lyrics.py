@@ -1,3 +1,4 @@
+
 """
 lyrics.py
 Real-time synchronized LRC lyrics client for Ember.
